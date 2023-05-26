@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MagnusMinds\\source\\repos\\DemoT\\DemoT\\DemoT.csproj": {}
+    "C:\\Projects\\Demo\\Demo\\DemoT\\DemoT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MagnusMinds\\source\\repos\\DemoT\\DemoT\\DemoT.csproj": {
+    "C:\\Projects\\Demo\\Demo\\DemoT\\DemoT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MagnusMinds\\source\\repos\\DemoT\\DemoT\\DemoT.csproj",
+        "projectUniqueName": "C:\\Projects\\Demo\\Demo\\DemoT\\DemoT.csproj",
         "projectName": "DemoT",
-        "projectPath": "C:\\Users\\MagnusMinds\\source\\repos\\DemoT\\DemoT\\DemoT.csproj",
+        "projectPath": "C:\\Projects\\Demo\\Demo\\DemoT\\DemoT.csproj",
         "packagesPath": "C:\\Users\\MagnusMinds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MagnusMinds\\source\\repos\\DemoT\\DemoT\\obj\\",
+        "outputPath": "C:\\Projects\\Demo\\Demo\\DemoT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MagnusMinds\\AppData\\Roaming\\NuGet\\NuGet.Config",
